@@ -1,0 +1,13 @@
+first data set only (755 images) - ~70% accuracty
+added second data set (3449 total) - 97% after
+
+
+sources
+
+everything lmao: https://www.pyimagesearch.com/2019/11/18/fire-and-smoke-detection-with-keras-and-deep-learning/
+
+fire/nonfire datasets: https://www.kaggle.com/phylake1337/fire-dataset
+second fire set: https://github.com/sulenn/fire-dataset/
+
+
+butterflies: https://www.youtube.com/watch?v=lWOySU_hAz0

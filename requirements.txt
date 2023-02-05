@@ -1,0 +1,7 @@
+imutils==0.5.4
+Keras-Preprocessing==1.1.2
+matplotlib==3.3.4
+numpy==1.19.5
+opencv-python==4.5.1.48
+sklearn==0.0
+tensorflow==2.4.1
